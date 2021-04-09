@@ -20,7 +20,8 @@ Open a console and make sure you run npm install
 3.Migrate contracts running truffle migrate or truffle migrate --reset
 
 4.Make sure you have Ganache running
-Make sure you are logged in on Metamask with one of the Ganache test accounts on localhost:7545 server
 
-5.In your project root directory, open a console and run npm run dev to run a lite server
+5. Make sure you are logged in on Metamask with one of the Ganache test accounts on localhost:7545 server
+
+6.In your project root directory, open a console and run npm run dev to run a lite server
 Now interact with the client app on localhost:3000
